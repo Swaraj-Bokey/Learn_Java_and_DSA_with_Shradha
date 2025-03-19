@@ -64,6 +64,7 @@ class c6_month_number_to_month_name
                 break;
             
         }
+        sc.close();
     }
 
 }
