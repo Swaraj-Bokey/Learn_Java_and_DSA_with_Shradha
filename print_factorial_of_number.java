@@ -27,5 +27,6 @@ public class print_factorial_of_number
         int n = sc.nextInt();
 
         printFactorial(n);
+        sc.close();
     }
 }

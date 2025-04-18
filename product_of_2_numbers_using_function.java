@@ -15,6 +15,6 @@ public class product_of_2_numbers_using_function
         int b = sc.nextInt();
 
         System.out.println("product_of_2_numbers_is "+ calculateProduct(a, b));
-
+        sc.close();
     }
 }

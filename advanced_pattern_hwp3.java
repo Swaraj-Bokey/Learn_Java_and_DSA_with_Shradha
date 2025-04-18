@@ -10,7 +10,7 @@ public class advanced_pattern_hwp3
 {
     public static void main(String[] args)
     {
-        int n = 5, number = 1; //number of rows
+        int number = 1; //number of rows
         
             for(int j = 1; j <= 5; j++)
             {

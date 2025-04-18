@@ -15,6 +15,7 @@ public class Functions
         String name = sc.next();
 
         printMyName(name); // function is called
+        sc.close();
     }
 
     

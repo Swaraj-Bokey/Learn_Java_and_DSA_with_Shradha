@@ -43,10 +43,7 @@ public class q9
                 }
             }
         }
-        else
-        {
-            return 70;  // Tracing: n == m
-        }
+        return 70;
     }
 
     public static void main(String[] args)

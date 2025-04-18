@@ -18,5 +18,6 @@ public class sum_of_two_numbers_with_function
 
         int sum = calculateSum(a,b);
         System.out.println("Sum of 2 numbers is " + sum);
+        sc.close();
     }
 }
